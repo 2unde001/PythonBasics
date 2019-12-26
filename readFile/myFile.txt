@@ -1,2 +1,0 @@
-Example of reading text from file
-We can use "with" key word to open and close file
