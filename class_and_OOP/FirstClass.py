@@ -1,4 +1,4 @@
-class FirstClass:
+class FirstClass():
 
     def set_data(self, value):
         self.data = value
